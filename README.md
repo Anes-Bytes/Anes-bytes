@@ -13,8 +13,8 @@
 - 🌱 Always learning
 - 👨‍💻 All of my projects are available at: **https://github.com/anes-bytes**
 - 💬 Ask me about **Django**
-- 📫 Email: **AnesAe.Codes@gmail.com**
-- 📨 Telegram: **@Anes_py**
+- 📫 Email: **aeanes799@gmail.com**
+- 📨 Telegram: **@razpy**
 
 ---
 
